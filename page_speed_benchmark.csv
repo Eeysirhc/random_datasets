@@ -1,0 +1,81 @@
+website,page_type,product,time_to_interactive
+Amazon,Home,-,10.4
+Amazon,Category,Security,10.7
+Amazon,Category,Electrical,5.6
+Amazon,Category,Security,6.0
+Amazon,Category,Security,7.1
+Amazon,Category,Electrical,5.9
+Amazon,Category,Sensors,10.0
+Amazon,Category,Entertainment,6.4
+Amazon,Category,Entertainment,10.0
+Amazon,Category,Sensors,7.1
+Amazon,Category,Sensors,7.1
+BestBuy,Home,-,35.0
+BestBuy,Category,Electrical,32.7
+BestBuy,Category,Security,27.9
+BestBuy,Category,Entertainment,37.5
+BestBuy,Category,Entertainment,30.4
+BestBuy,Category,Electrical,32.2
+BestBuy,Category,Electrical,34.9
+BestBuy,Category,Electrical,31.5
+BestBuy,Category,Sensors,30.5
+BestBuy,Category,Security,29.9
+BestBuy,Category,Security,30.5
+BestBuy,Category,Security,29.2
+BestBuy,Category,Sensors,29.4
+BestBuy,Category,Security,29.4
+Home Depot,Home,-,28.5
+Home Depot,Category,Sensors,25.1
+Home Depot,Category,Sensors,24.8
+Home Depot,Category,Sensors,28.3
+Home Depot,Category,Security,24.0
+Home Depot,Category,Entertainment,23.5
+Home Depot,Category,Security,25.6
+Home Depot,Category,Security,25.8
+Home Depot,Category,Security,23.9
+Home Depot,Category,Electrical,26.3
+Home Depot,Category,Electrical,24.7
+IKEA,Home,-,10.3
+IKEA,Category,Electrical,10.0
+IKEA,Category,Electrical,9.3
+IKEA,Category,Entertainment,9.8
+IKEA,Category,Entertainment,9.8
+IKEA,Category,Entertainment,8.3
+Smarthome,Home,-,9.8
+Smarthome,Category,Entertainment,9.3
+Smarthome,Category,Electrical,9.8
+Smarthome,Category,Sensors,10.6
+Smarthome,Category,Security,13.1
+Smarthome,Category,Security,8.9
+Smarthome,Category,Security,10.0
+Smarthome,Category,Entertainment,8.9
+Smarthome,Category,Electrical,9.1
+Smarthome,Category,Electrical,8.0
+Smarthome,Category,Electrical,8.9
+Smarthome,Category,Sensors,9.1
+Smarthome,Category,Sensors,8.8
+Smarthome,Category,Security,9.2
+Smarthome,Category,Security,8.8
+Smarthome,Category,Sensors,9.8
+Smarthome,Category,Entertainment,8.8
+Target,Home,-,14.3
+Target,Category,Security,22.1
+Target,Category,Security,22.3
+Target,Category,Security,20.3
+Target,Category,Sensors,19.4
+Target,Category,Electrical,19.5
+Target,Category,Electrical,24.6
+Walmart,Home,-,13.8
+Walmart,Category,Security,15.1
+Walmart,Category,Security,16.5
+Walmart,Category,Electrical,16.5
+Walmart,Category,Electrical,16.3
+Walmart,Category,Electrical,16.4
+Walmart,Category,Security,17.2
+Walmart,Category,Security,17.2
+Walmart,Category,Sensors,15.9
+Walmart,Category,Electrical,16.1
+Walmart,Category,Electrical,16.7
+Walmart,Category,Electrical,16.2
+Walmart,Category,Sensors,18.2
+Walmart,Category,Sensors,17.9
